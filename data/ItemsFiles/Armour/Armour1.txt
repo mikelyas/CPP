@@ -1,0 +1,4 @@
+Name: Metal Armour
+Cost: 5
+Size: 5
+Armour: 10

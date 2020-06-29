@@ -1,0 +1,4 @@
+Name: Uru Metal Sword
+Cost: 40
+Size: 4
+Attack: 70

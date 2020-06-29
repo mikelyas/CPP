@@ -1,0 +1,4 @@
+Name: Loaf of bread
+Cost: 1
+Size: 1
+Healing: 10

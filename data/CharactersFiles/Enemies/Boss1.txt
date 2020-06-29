@@ -1,0 +1,4 @@
+Name: Eredin
+Health: 60
+Strength: 30
+Armour: 10

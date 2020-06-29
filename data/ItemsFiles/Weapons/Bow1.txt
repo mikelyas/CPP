@@ -1,0 +1,4 @@
+Name: Woodworker's Bow
+Cost: 7
+Size: 4
+Attack: 20

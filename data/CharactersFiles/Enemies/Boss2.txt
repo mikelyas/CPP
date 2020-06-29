@@ -1,0 +1,4 @@
+Name: Nithral
+Health: 70
+Strength: 40
+Armour: 20

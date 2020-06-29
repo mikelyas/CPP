@@ -1,0 +1,5 @@
+Name: Witch Jenifer
+Health: 1
+Amount of money: 40
+Storages:
+	StorageWitch1.txt

@@ -1,0 +1,13 @@
+Name: Storage of Seller3
+Cost: 100
+Size: 1
+Capacity: 100
+Items:
+	Armour:
+		Armour2.txt
+	Healers:
+		Healer1.txt
+		Healer2.txt
+	Weapons:
+		Sword1.txt
+		Bow1.txt

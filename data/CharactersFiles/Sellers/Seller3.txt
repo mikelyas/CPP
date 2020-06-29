@@ -1,0 +1,5 @@
+Name: Seller Grethen
+Health: 1
+Amount of money: 50
+Storages:
+	StorageSeller3.txt

@@ -1,0 +1,6 @@
+Name: Blacksmith Anvil Master
+Health: 1
+Amount of money: 50
+Storages:
+	StorageBlacksmith3.txt
+1. Hello, traveler. I have everything you need.

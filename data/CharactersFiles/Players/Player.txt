@@ -1,0 +1,13 @@
+Name: Player
+Health: 100
+Amount of money: 10
+Strength: 5
+Armour: 0
+Sex: Male
+Hair colour: Black
+Eyes colour: Brown
+CheckPoint: Village1.txt
+Storages:
+	Backpack1Player.txt
+	LeftPocketPlayer.txt
+	RightPocketPlayer.txt

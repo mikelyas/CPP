@@ -1,0 +1,12 @@
+Name: Player
+Health: 100
+Amount of money: 10
+Strength: 5
+Armour: 0
+Sex: Male
+Hair colour: Black
+Eyes colour: Brown
+Storages:
+	Backpack1.txt
+	LeftPocket.txt
+	RightPocket.txt

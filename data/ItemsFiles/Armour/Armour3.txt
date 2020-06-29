@@ -1,0 +1,4 @@
+Name: Dragon Aromour
+Cost: 30
+Size: 5
+Armour: 30

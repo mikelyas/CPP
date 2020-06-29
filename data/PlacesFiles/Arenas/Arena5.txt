@@ -1,0 +1,5 @@
+Name: Boss's labirinth
+Enemies:
+	Enemy3.txt
+	Enemy4.txt
+	Boss2.txt

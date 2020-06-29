@@ -1,0 +1,4 @@
+Name: Werewolf
+Health: 30
+Strength: 10
+Armour: 0

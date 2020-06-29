@@ -1,0 +1,4 @@
+Name: Health potion
+Cost: 10
+Size: 1
+Healing: 100

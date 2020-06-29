@@ -1,0 +1,6 @@
+Name: Swamp of death
+Enemies:
+	Enemy1.txt
+	Enemy1.txt
+	Enemy1.txt
+	Enemy2.txt

@@ -1,0 +1,4 @@
+Name: Metal Sword
+Cost: 5
+Size: 4
+Attack: 30

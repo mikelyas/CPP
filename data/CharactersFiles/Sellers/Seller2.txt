@@ -1,0 +1,5 @@
+Name: Seller Maria
+Health: 1
+Amount of money: 10
+Storages:
+	StorageSeller2.txt

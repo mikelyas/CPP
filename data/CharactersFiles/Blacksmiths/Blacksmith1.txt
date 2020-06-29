@@ -1,0 +1,6 @@
+Name: Blacksmith Ben
+Health: 1
+Amount of money: 10
+Storages:
+	StorageBlacksmith1.txt
+1. Hello, traveler. I have everything you need.

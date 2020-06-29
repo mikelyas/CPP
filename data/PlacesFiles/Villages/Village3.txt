@@ -1,0 +1,10 @@
+Name: Erengrad
+Good Characters:
+	Sellers:
+		Seller2.txt
+		Seller3.txt
+	Blacksmiths:
+		Blacksmith2.txt
+		Blacksmith3.txt
+	Witches:
+		Witch1.txt

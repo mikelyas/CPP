@@ -1,0 +1,4 @@
+Name: Backpack level3
+Cost: 30
+Size: 1
+Capacity: 30

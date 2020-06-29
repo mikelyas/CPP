@@ -1,0 +1,4 @@
+Name: Mandragora's roots
+Cost: 5
+Size: 1
+Healing: 30

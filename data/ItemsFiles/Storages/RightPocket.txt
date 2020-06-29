@@ -1,0 +1,4 @@
+Name: Right Pocket
+Cost: 0
+Size: 0
+Capacity: 2

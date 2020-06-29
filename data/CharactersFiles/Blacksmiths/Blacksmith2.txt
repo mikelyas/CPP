@@ -1,0 +1,6 @@
+Name: Blacksmith Sirius
+Health: 1
+Amount of money: 30
+Storages:
+	StorageBlacksmith2.txt
+1. Hello, traveler. I have everything you need.

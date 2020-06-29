@@ -1,0 +1,4 @@
+Name: Skeleton
+Health: 5
+Strength: 1
+Armour: 0

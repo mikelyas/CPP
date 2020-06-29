@@ -1,0 +1,4 @@
+Name: Backpack level2
+Cost: 20
+Size: 1
+Capacity: 20

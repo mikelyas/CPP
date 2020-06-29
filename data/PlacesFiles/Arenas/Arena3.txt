@@ -1,0 +1,5 @@
+Name: Golem's Rock
+Enemies:
+	Enemy4.txt
+	Enemy1.txt
+	Enemy3.txt

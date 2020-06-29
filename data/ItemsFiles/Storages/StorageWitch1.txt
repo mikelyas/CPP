@@ -1,0 +1,9 @@
+Name: Storage of witcher
+Cost: 100
+Size: 1
+Capacity: 100
+Items:
+	Healers:
+		Healer2.txt
+		Healer3.txt
+		UltraHealer.txt

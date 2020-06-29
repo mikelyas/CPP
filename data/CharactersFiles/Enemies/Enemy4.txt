@@ -1,0 +1,4 @@
+ Name: Golem
+ Health: 40
+ Strength: 15
+ Armour: 0

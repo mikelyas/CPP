@@ -1,0 +1,4 @@
+Name: Elven Sword
+Cost: 20
+Size: 4
+Attack: 40

@@ -1,0 +1,5 @@
+Name: Seller Bob
+Health: 1
+Amount of money: 10
+Storages:
+	StorageSeller1.txt

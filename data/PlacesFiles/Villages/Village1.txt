@@ -1,0 +1,7 @@
+Name: Saint Georgesburg
+Good Characters:
+	Sellers:
+		Seller1.txt
+		Seller2.txt
+	Blacksmiths:
+		Blacksmith1.txt

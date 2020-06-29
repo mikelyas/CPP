@@ -1,0 +1,4 @@
+Name: Hawkeye's Bow
+Cost: 15
+Size: 4
+Attack: 40

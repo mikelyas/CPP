@@ -1,0 +1,4 @@
+Name: Chicken
+Cost: 2
+Size: 1
+Healing: 20

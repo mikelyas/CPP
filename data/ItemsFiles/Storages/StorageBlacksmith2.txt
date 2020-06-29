@@ -1,0 +1,12 @@
+Name: Storage of Blacksmith2
+Cost: 100
+Size: 1
+Capacity: 100
+Items:
+	Armour:
+		Armour2.txt
+	Weapons:
+		Sword1.txt
+		Sword2.txt
+		Bow1.txt
+		Bow2.txt

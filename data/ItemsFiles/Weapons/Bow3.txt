@@ -1,0 +1,4 @@
+Name: Elven Bow
+Cost: 35
+Size: 4
+Attack: 60
